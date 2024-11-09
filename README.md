@@ -4,7 +4,7 @@
 🌈 Contribution guidelines - you must abide by the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) Code of Conduct.
 
 ## Source files
-`AI.qmd`: abbreviations and definitions on artificial intelligence (AI)
+`QB_paper.qmd`: abbreviations and definitions on artificial intelligence (AI) which can be previewed in [docs/QB_paper.md](https://github.com/dataobservatory-eu/questionbank_papers/blob/main/docs/QB_paper.md).
 
 
 ## Rendered files
