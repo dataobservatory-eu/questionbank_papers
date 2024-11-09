@@ -44,7 +44,7 @@ bibliography:
     - bib/cm.bib
     - bib/ddi.bib
     - bib/openmuse.bib
-    - bib/r_packages.bib
+    - bib/rpackages.bib
     - bib/wikidata.bib
 ---
 
@@ -82,7 +82,14 @@ The Wikibase Data Model is often used as a coordinator or broker between various
 
 The description of this work is the topic of a separate paper. What we want to stress out is that our goal is to arrive at a QuestionBank application that is usable for statistical harmonisation in the domain of music, and not a novel conceptual or information model of surveying in general. We do not aim to create an equivalent or alternative modelling of the entire DDI-Discovery vocabulary [@ddi-rdf_discovery_2024], for example, or XKOS. We want to represent the evolving standard of the DDI-Discovery and the existing XKOS standard only to the extent that we can administer our surveys and create a future-proof representation for the collected answers that allows a fully interoperable reuse capability. Describing a questions and answer options in a relatively limited universe, i.e., the socio-economic aspect of music is a relatively narrow application, although we believe that it is complex enough that our QuestionBank will be able to cope with more and more general competency requirements in the future, and can serve other creative industry research, or digital humanities research, and so on.
 
+We aim to support this work with three R software library extensions or "packages" for a reproducible workflow:
+
+- [retroharmonize](https://retroharmonize.dataobservatory.eu/) for the retrospective harmonisation of responses [@r_package_retroharmonize];
+- [dataset](https://dataset.dataobservatory.eu/) for creating semantically rich representations of the response datasets [@r_package_dataset_0_2_7];
+- [wbdataset](https://github.com/dataobservatory-eu/wbdataset/) for connecting dataset between the R statistical system and environment and the Wikibase system [@r_package_wbdataset_0_1_0].
+
  {{< pagebreak >}}
+ 
 ## Variables
 
 ::: callout-note

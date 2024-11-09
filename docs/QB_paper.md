@@ -152,6 +152,18 @@ enough that our QuestionBank will be able to cope with more and more
 general competency requirements in the future, and can serve other
 creative industry research, or digital humanities research, and so on.
 
+We aim to support this work with three R software library extensions or
+“packages” for a reproducible workflow:
+
+- [retroharmonize](https://retroharmonize.dataobservatory.eu/) for the
+  retrospective harmonisation of responses (Antal 2021);
+- [dataset](https://dataset.dataobservatory.eu/) for creating
+  semantically rich representations of the response datasets (Antal
+  2023);
+- [wbdataset](https://github.com/dataobservatory-eu/wbdataset/) for
+  connecting dataset between the R statistical system and environment
+  and the Wikibase system (Antal 2024).
+
 
 
 ## Variables
@@ -445,6 +457,29 @@ Eurobarometer socio-demographic questions
 
 <div id="refs" class="references csl-bib-body hanging-indent"
 entry-spacing="0">
+
+<div id="ref-r_package_retroharmonize" class="csl-entry">
+
+Antal, Daniel. 2021. “<span class="nocase">retroharmonize Ex Post Survey
+Data Harmonization</span>.” The Comprehensive R Archive Network.
+<https://doi.org/10.5281/zenodo.5781724>.
+
+</div>
+
+<div id="ref-r_package_dataset_0_2_7" class="csl-entry">
+
+———. 2023. “Dataset Create Interoperable and Well-Documented Data
+Frames.” The Comprehensive R Archive Network.
+<https://doi.org/10.5281/zenodo.10304055>.
+
+</div>
+
+<div id="ref-r_package_wbdataset_0_1_0" class="csl-entry">
+
+———. 2024. “Wbdataset Making Datasets Truly Interoperable and Reusable
+in r with Wikibase.” Zenodo. <https://doi.org/10.5281/zenodo.10304055>.
+
+</div>
 
 <div id="ref-ddi_lifecycle_3-3" class="csl-entry">
 
