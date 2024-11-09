@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+
+*.pdf
+*.docx
+^docs/QB_paper_files
+docs/*.html
