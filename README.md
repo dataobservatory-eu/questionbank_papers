@@ -1,4 +1,4 @@
-# Glossaries
+# Create a Question Bank
 🙋‍♀️ Creating multi-language glossaries for information and collections management, and digital humanities.
 
 🌈 Contribution guidelines - you must abide by the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) Code of Conduct.
