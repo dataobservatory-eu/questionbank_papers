@@ -13,7 +13,9 @@ The edited files are rendered to `docs/`, which is _not synchronized_ to GitHub 
 
 ## Ignored files in .gitignore
 The `.gitignore` file contains file names, bulk file name exceptions, and entire folders that are *not* to be synchronized to GitHub.
+
 `not_included`: serves as the place of your personal scrapbook, sandbox, that you do not want to share with anybody.
+
 `docs`: the final,  edited texts (we do not synch because if the `qmd` file is correct, they should work with all users of the shared repository.)
 
 ## Referencing and attribution
